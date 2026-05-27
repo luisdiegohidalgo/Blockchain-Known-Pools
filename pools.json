@@ -596,6 +596,11 @@
             "name" : "BitFuFuPool",
             "link" : "https://www.bitfufu.com/pool"
         }
+,
+        "/ownblock/": {
+            "name": "OwnBlock",
+            "link": "https://ownblock.io"
+        }
     },
     "payout_addresses" : {
         "1MkCDCzHpBsYQivp8MxjY5AkTGG1f2baoe": {
